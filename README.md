@@ -39,7 +39,7 @@ This project is a microservices-based application for managing orders and carts.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/NizCom/your-repo-name.git
+   git clone https://github.com/NizCom/event-driven-kafka.git
    cd your-repo-name
    ```
 
